@@ -1171,7 +1171,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4dff08;
+  background: #cc9ee0;
 }
 .sidebar-nav {
   margin: 0;
@@ -1699,15 +1699,14 @@ input.menu-search-input {
 }
 .back-to-top {
   position: fixed;
-  bottom: 19px;
+  bottom: 34px;
   right: 50px;
   z-index: 1050;
-  width: 15px;
-  height: 13px;
+  width: 75px;
+  height: 33px;
   padding: 5px;
   background: #222;
   color: #fff;
-  cursor: pointer;
   -webkit-transform: translateZ(0);
 }
 @media (max-width: 767px) {
