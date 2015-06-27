@@ -1171,7 +1171,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #93de9d;
+  background: #91ffff;
 }
 .sidebar-nav {
   margin: 0;
@@ -1705,8 +1705,10 @@ input.menu-search-input {
   width: 75px;
   height: 33px;
   padding: 5px;
-  background: #222;
-  color: #fff;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  font-size: 15px;
   -webkit-transform: translateZ(0);
 }
 @media (max-width: 767px) {
